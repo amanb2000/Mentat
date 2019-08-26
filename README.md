@@ -1,5 +1,5 @@
 # Mentat
-EEG analysis project with Emotiv Epoc+
+EEG analysis project with Emotiv Epoc+. The virtual environment name is `brenv`
 
 ## Experiment 1: Music or No Music
 This simple starter experiment will attempt to detect the difference between me listening to music and me not listening to music. 
